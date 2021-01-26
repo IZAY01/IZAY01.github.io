@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://IZAY01.github.io/sitemap.xml
