@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cjk on 博客施工中……</title>
-    <link>izayoi.cn/tags/cjk/</link>
+    <link>https://izayoi.cn/tags/cjk/</link>
     <description>Recent content in cjk on 博客施工中……</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Mar 2018 00:00:00 +0800</lastBuildDate><atom:link href="izayoi.cn/tags/cjk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Mar 2018 00:00:00 +0800</lastBuildDate><atom:link href="https://izayoi.cn/tags/cjk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CJK Unicode Test</title>
-      <link>izayoi.cn/post/cjk-unicode-test/</link>
+      <link>https://izayoi.cn/post/cjk-unicode-test/</link>
       <pubDate>Fri, 09 Mar 2018 00:00:00 +0800</pubDate>
       
-      <guid>izayoi.cn/post/cjk-unicode-test/</guid>
+      <guid>https://izayoi.cn/post/cjk-unicode-test/</guid>
       <description>&lt;p&gt;The following is part of the CJK text, this page is for test use only.&lt;/p&gt;</description>
     </item>
     
