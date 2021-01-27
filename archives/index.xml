@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Archives on 博客施工中……</title>
-    <link>https://IZAY01.github.io/archives/</link>
+    <link>izayoi.cn/archives/</link>
     <description>Recent content in Archives on 博客施工中……</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://IZAY01.github.io/archives/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="izayoi.cn/archives/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
