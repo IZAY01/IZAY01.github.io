@@ -35,8 +35,8 @@
 <meta property="og:title" content="系统能力培养综合实践总结" />
 <meta name="twitter:title" content="系统能力培养综合实践总结" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://IZAY01.github.io/post/%E7%B3%BB%E7%BB%9F%E8%83%BD%E5%8A%9B%E5%9F%B9%E5%85%BB%E7%BB%BC%E5%90%88%E5%AE%9E%E8%B7%B5%E6%80%BB%E7%BB%93/" /><meta property="og:description" content="系统能力培养综合实践总结 张剑威 王聚海 苑浩然 0x1 开元大饼 cpu功能完善1：经典五级流⽔线的实现 指令条数及⼀些细节参考A03 在以后的设计过程中根据需要增加流⽔线级数 （Q1） 需要解决基本的相关问题（数据旁路）" />
-<meta name="twitter:description" content="系统能力培养综合实践总结 张剑威 王聚海 苑浩然 0x1 开元大饼 cpu功能完善1：经典五级流⽔线的实现 指令条数及⼀些细节参考A03 在以后的设计过程中根据需要增加流⽔线级数 （Q1） 需要解决基本的相关问题（数据旁路）" /><meta property="og:image" content="https://IZAY01.github.io/img/og.png" />
+<meta property="og:url" content="https://IZAY01.github.io/post/%E7%B3%BB%E7%BB%9F%E8%83%BD%E5%8A%9B%E5%9F%B9%E5%85%BB%E7%BB%BC%E5%90%88%E5%AE%9E%E8%B7%B5%E6%80%BB%E7%BB%93/" /><meta property="og:description" content="张剑威 王聚海 苑浩然 0x1 开元大饼 cpu功能完善1：经典五级流⽔线的实现 指令条数及⼀些细节参考A03 在以后的设计过程中根据需要增加流⽔线级数 （Q1） 需要解决基本的相关问题（数据旁路） cpu功能完善2：中断及" />
+<meta name="twitter:description" content="张剑威 王聚海 苑浩然 0x1 开元大饼 cpu功能完善1：经典五级流⽔线的实现 指令条数及⼀些细节参考A03 在以后的设计过程中根据需要增加流⽔线级数 （Q1） 需要解决基本的相关问题（数据旁路） cpu功能完善2：中断及" /><meta property="og:image" content="https://IZAY01.github.io/img/og.png" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:image" content="https://IZAY01.github.io/img/og.png" /><meta property="article:published_time" content="2021-01-27T23:21:24+08:00" /><meta property="article:modified_time" content="2021-01-27T23:21:24+08:00" />
 
@@ -99,13 +99,12 @@
         <a href="https://IZAY01.github.io/post/%E7%B3%BB%E7%BB%9F%E8%83%BD%E5%8A%9B%E5%9F%B9%E5%85%BB%E7%BB%BC%E5%90%88%E5%AE%9E%E8%B7%B5%E6%80%BB%E7%BB%93/">系统能力培养综合实践总结</a>
     </h2>
     <div class="post-item post-meta">
-        <span><i class="iconfont icon-today-sharp"></i>&nbsp;2021-01-27</span><span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;780 words</span><span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;No tag</span>
+        <span><i class="iconfont icon-today-sharp"></i>&nbsp;2021-01-27</span><span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;1144 words</span><span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;No tag</span>
 
     </div>
     
     <div class="post-content markdown-body">
-        <h1 id="系统能力培养综合实践总结">系统能力培养综合实践总结</h1>
-<blockquote>
+        <blockquote>
 <p>张剑威 王聚海 苑浩然</p>
 </blockquote>
 <h2 id="0x1-开元大饼">0x1 开元大饼</h2>
@@ -178,8 +177,18 @@
 <li>Cache优化的⼗⼏种⽅法</li>
 </ul>
 <h2 id="0x2-cpu设计方案的演化过程">0x2 CPU设计方案的演化过程</h2>
-<p><img class="img-zoomable" src="/home/izayoi/Download/06B12922D0D877B76CDEB358BD0B6A21.png" alt="06B12922D0D877B76CDEB358BD0B6A21" />
+<h3 id="初始设计图">初始设计图</h3>
+<p><img class="img-zoomable" src="izayoi.cn/img/1.png" alt="img" />
 </p>
+<h3 id="最终设计图">最终设计图</h3>
+<p><img class="img-zoomable" src="izayoi.cn/img/2.png" alt="img" />
+</p>
+<h3 id="最终实现代码">最终实现代码</h3>
+<p><a href="https://github.com/sinofp/chisel-mips">https://github.com/sinofp/chisel-mips</a></p>
+<h3 id="0x3-张剑威的第一人称视角总结">0x3 张剑威的第一人称视角总结</h3>
+<p>在课程伊始，苑浩然和王聚海都有着在小学期时实现的较为成熟的 CPU ，而我是抱着补足三年多对计算机科学的系统学习中最后缺失的一个板块的心态，参与到课程中的。初期，我与他俩在 CPU 设计这块的知识积累差距不小。所以便是由王聚海主导着设计方案，苑浩然出谋划策参与设计，而我在接活打杂的同时跟进他俩的设计思路用以学习。</p>
+<p>设计阶段经历了几个星期的实现方案修改、方案的实现文档撰写、CPU设计图的绘制。在这起始的几个星期里，团队分工是王聚海与苑浩然一起设计，王聚海给出设计方案的文档，而我依据当前设计方案绘制出设计图的同时跟进学习。同时，在设计与编写 Verilog 代码的同时，苑浩然的 chisel 版本也在同步编码。</p>
+<p>中期，苑浩然的 chisel 版本编码完成时，我和王聚海这边的 Verilog 版本方具雏形。此时王聚海提出废弃 Verilog 版本仅保留 chisel 版本，小组内部同意了这项提案。</p>
 
     </div>
 </article>
@@ -307,7 +316,14 @@
         <li><a href="#cpu性能提升5优化cache优化串口">cpu性能提升5：优化Cache，优化串口</a></li>
       </ul>
     </li>
-    <li><a href="#0x2-cpu设计方案的演化过程">0x2 CPU设计方案的演化过程</a></li>
+    <li><a href="#0x2-cpu设计方案的演化过程">0x2 CPU设计方案的演化过程</a>
+      <ul>
+        <li><a href="#初始设计图">初始设计图</a></li>
+        <li><a href="#最终设计图">最终设计图</a></li>
+        <li><a href="#最终实现代码">最终实现代码</a></li>
+        <li><a href="#0x3-张剑威的第一人称视角总结">0x3 张剑威的第一人称视角总结</a></li>
+      </ul>
+    </li>
   </ul>
 </nav></div>
 </aside>
@@ -440,7 +456,14 @@
         <li><a href="#cpu性能提升5优化cache优化串口">cpu性能提升5：优化Cache，优化串口</a></li>
       </ul>
     </li>
-    <li><a href="#0x2-cpu设计方案的演化过程">0x2 CPU设计方案的演化过程</a></li>
+    <li><a href="#0x2-cpu设计方案的演化过程">0x2 CPU设计方案的演化过程</a>
+      <ul>
+        <li><a href="#初始设计图">初始设计图</a></li>
+        <li><a href="#最终设计图">最终设计图</a></li>
+        <li><a href="#最终实现代码">最终实现代码</a></li>
+        <li><a href="#0x3-张剑威的第一人称视角总结">0x3 张剑威的第一人称视角总结</a></li>
+      </ul>
+    </li>
   </ul>
 </nav>
     </div>
