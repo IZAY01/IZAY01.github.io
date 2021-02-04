@@ -97,7 +97,7 @@
         <a href="https://izayoi.cn/post/klee_%E4%B8%BA%E5%A4%8D%E6%9D%82%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90%E9%AB%98%E8%A6%86%E7%9B%96%E7%8E%87%E7%9A%84%E6%B5%8B%E8%AF%95/">KLEE_为复杂系统程序自动生成高覆盖率的测试</a>
     </h2>
     <div class="post-item post-meta">
-        <span><i class="iconfont icon-today-sharp"></i>&nbsp;2021-02-03</span><span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;2905 字</span><span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;<a href="/tags/%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AE%89%E5%85%A8">二进制安全</a>&nbsp;</span>
+        <span><i class="iconfont icon-today-sharp"></i>&nbsp;2021-02-03</span><span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;2945 字</span><span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;<a href="/tags/%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AE%89%E5%85%A8">二进制安全</a>&nbsp;</span>
 
     </div>
     
@@ -109,14 +109,8 @@
 <p>翻译：IZAY01</p>
 </blockquote>
 <h2 id="概述">概述</h2>
-<p>KLEE 是我们推出的⼀种全新的符号执⾏⼯具，它能够在各种复杂的环境密集型程序中⾃动⽣成实现了
-⾼覆盖率的测试⽤例。我们使⽤ KLEE 对 GNU 的核⼼组件中的 89 个独⽴程序进⾏了全⾯的测试。这些
-程序构建了数百万个 Unix 平台上的核⼼⽤⼾态环境，可以认为是现今经过了最为严格的测试的程序的
-集合。KLEE 为其⽣成的测试⽤例达到了很⾼的路径覆盖率——平均每个程序达到了 90% 以上（中位数
-超过 94%）。这个成绩⼤⼤超越了开发者⼿动编写的测试集。而当我们对类似的 75 个 BUSYBOX 嵌⼊
-式系统套件中的程序进⾏测试时，其结果表现得更为出⾊，并在其中的 31 个程序中达到了 100% 的路
-径覆盖率。</p>
-<p>同时我们也将 KLEE ⽤作⼀个漏洞扫描器，并将其应⽤到 452 个软件应⽤上（这其中包含了超过
+<p>KLEE 是我们推出的一款全新的符号执⾏⼯具，它能够对于各种与环境有密集交互的程序，自动生成实现路径高覆盖率的测试用例。借助于KLEE，我们对 GNU 的核⼼组件中的 89 个独⽴程序进⾏了全方位的测试——这些程序为数百万个 Unix 平台构建了核⼼⽤⼾态环境，可以被认为是当下经过了最为严格的测试的程序的集合。KLEE 为其⽣成的测试⽤例的路径覆盖率很高——平均每个程序达到了 90% 以上（中位数更是超过了 94%）。这个成绩⼤⼤超越了开发者⼿动编写的测试集。而当我们对与其相似的 75 个 BUSYBOX 嵌⼊式系统套件中的程序进⾏测试时，结果表现得更为出⾊。在其中的 31 个程序中，路径覆盖率达到了 100%。</p>
+<p>同时，我们也将 KLEE ⽤作⼀个漏洞扫描器，并将其应⽤到 452 个软件应⽤上（这其中包含了超过
 430,000 ⾏代码），KLEE 这次在其中发掘了 56 个严重的漏洞。其内包含了三个 15 年间未被发现的存
 在于 COREUTILS 中的漏洞。最后，我们使⽤ KLEE 交叉检测了据称是完全相同的 BUSYBOX 和
 COREUTILS 的程序集，并在其中找到了逻辑错误和⼤量的不⼀致之处。</p>
@@ -194,7 +188,7 @@ COREUTILS程序时，KLEE ⾃动发现了功能正确性错误，和两者的⼤
 进⾏建模。本⽂的核⼼是第5节，由此呈现了我们的实验结果。最后，第 6 节介绍了相关⼯作，并在第 7
 节作出总结。</p>
 <h2 id="综述">综述</h2>
-<p>更新中</p>
+<p>本节引导读者通过对 MINIX 中的 tr 工具进行测试来阐述 KLEE 的工作原理。</p>
 
     </div>
 </article>
@@ -210,23 +204,23 @@ COREUTILS程序时，KLEE ⾃动发现了功能正确性错误，和两者的⼤
         <ul>
             
             <li>
-                <a href="/">Home</a>
+                <a href="/">🏠 主页</a>
             </li>
             
             <li>
-                <a href="/archives/">Archives</a>
+                <a href="/archives/">📦 归档</a>
             </li>
             
             <li>
-                <a href="/about/">About</a>
+                <a href="/search/">🔍 搜索</a>
             </li>
             
             <li>
-                <a href="/search/">Search</a>
+                <a href="/about/">❤️ 关于</a>
             </li>
             
             <li>
-                <a href="/index.xml">RSS</a>
+                <a href="/index.xml">🪧 订阅</a>
             </li>
             
         </ul>
@@ -241,11 +235,15 @@ COREUTILS程序时，KLEE ⾃动发现了功能正确性错误，和两者的⼤
             </li>
             
             <li>
-                <a href="https://www.zhihu.com/people/izayoi-28" target="_blank"><span>Zhihu</span></a>
+                <a href="https://www.zhihu.com/people/izayoi-28" target="_blank"><span>知乎</span></a>
             </li>
             
             <li>
-                <a href="https://space.bilibili.com/210892014" target="_blank"><span>Bilibili</span></a>
+                <a href="https://space.bilibili.com/210892014" target="_blank"><span>哔哩哔哩</span></a>
+            </li>
+            
+            <li>
+                <a href="https://music.163.com/#/user/home?id=637949992" target="_blank"><span>网易云音乐</span></a>
             </li>
             
         </ul>
@@ -287,23 +285,23 @@ COREUTILS程序时，KLEE ⾃动发现了功能正确性错误，和两者的⼤
         <ul>
             
             <li>
-                <a href="/">Home</a>
+                <a href="/">🏠 主页</a>
             </li>
             
             <li>
-                <a href="/archives/">Archives</a>
+                <a href="/archives/">📦 归档</a>
             </li>
             
             <li>
-                <a href="/about/">About</a>
+                <a href="/search/">🔍 搜索</a>
             </li>
             
             <li>
-                <a href="/search/">Search</a>
+                <a href="/about/">❤️ 关于</a>
             </li>
             
             <li>
-                <a href="/index.xml">RSS</a>
+                <a href="/index.xml">🪧 订阅</a>
             </li>
             
         </ul>
@@ -318,11 +316,15 @@ COREUTILS程序时，KLEE ⾃动发现了功能正确性错误，和两者的⼤
             </li>
             
             <li>
-                <a href="https://www.zhihu.com/people/izayoi-28" target="_blank"><span>Zhihu</span></a>
+                <a href="https://www.zhihu.com/people/izayoi-28" target="_blank"><span>知乎</span></a>
             </li>
             
             <li>
-                <a href="https://space.bilibili.com/210892014" target="_blank"><span>Bilibili</span></a>
+                <a href="https://space.bilibili.com/210892014" target="_blank"><span>哔哩哔哩</span></a>
+            </li>
+            
+            <li>
+                <a href="https://music.163.com/#/user/home?id=637949992" target="_blank"><span>网易云音乐</span></a>
             </li>
             
         </ul>
@@ -355,8 +357,7 @@ COREUTILS程序时，KLEE ⾃动发现了功能正确性错误，和两者的⼤
         <div class="col-12 footer">
             
             <span>&copy; 2021-2021
-                <a href="https://izayoi.cn">IZAY01</a>
-                 | <a href="https://github.com/IZAY01/IZAY01.github.io">Source code</a> 
+                <a href="https://izayoi.cn"> 😴💤 IZAY01</a>
             </span>
         </div>
     </div>
