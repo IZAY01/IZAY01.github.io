@@ -6,7 +6,16 @@
     <description>Recent content on \ [&gt;_ ] /</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hans</language>
-    <lastBuildDate>Wed, 03 Feb 2021 09:49:32 +0800</lastBuildDate><atom:link href="https://izayoi.cn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Feb 2021 11:52:18 +0800</lastBuildDate><atom:link href="https://izayoi.cn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>片语</title>
+      <link>https://izayoi.cn/post/%E7%89%87%E8%AF%AD/</link>
+      <pubDate>Fri, 05 Feb 2021 11:52:18 +0800</pubDate>
+      
+      <guid>https://izayoi.cn/post/%E7%89%87%E8%AF%AD/</guid>
+      <description>往往还是老物好，能留下来不得了。而新事物就需要额外的精力去鉴别质量</description>
+    </item>
+    
     <item>
       <title>KLEE_为复杂系统程序自动生成高覆盖率的测试</title>
       <link>https://izayoi.cn/post/klee_%E4%B8%BA%E5%A4%8D%E6%9D%82%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90%E9%AB%98%E8%A6%86%E7%9B%96%E7%8E%87%E7%9A%84%E6%B5%8B%E8%AF%95/</link>

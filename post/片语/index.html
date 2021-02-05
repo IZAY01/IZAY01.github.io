@@ -22,21 +22,21 @@
 <meta name="theme-color" content="#ffffff" />
 
 
-<title>我的2020 - \ [&gt;_ ] /</title>
+<title>片语 - \ [&gt;_ ] /</title>
 
 
 <meta name="author" content="IZAY01" />
 
 
 
-<meta name="keywords" content="时光" />
+<meta name="keywords" content="纸屑" />
 
 
-<meta property="og:title" content="我的2020" />
-<meta name="twitter:title" content="我的2020" />
+<meta property="og:title" content="片语" />
+<meta name="twitter:title" content="片语" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://izayoi.cn/post/%E6%88%91%E7%9A%842020/" /><meta property="og:description" content="有空再写。先放首彩姐的 Trance" />
-<meta name="twitter:description" content="有空再写。先放首彩姐的 Trance" /><meta name="twitter:card" content="summary" /><meta property="article:published_time" content="2021-02-02T09:48:33+08:00" /><meta property="article:modified_time" content="2021-02-02T09:48:33+08:00" />
+<meta property="og:url" content="https://izayoi.cn/post/%E7%89%87%E8%AF%AD/" /><meta property="og:description" content="往往还是老物好，能留下来不得了。而新事物就需要额外的精力去鉴别质量" />
+<meta name="twitter:description" content="往往还是老物好，能留下来不得了。而新事物就需要额外的精力去鉴别质量" /><meta name="twitter:card" content="summary" /><meta property="article:published_time" content="2021-02-05T11:52:18+08:00" /><meta property="article:modified_time" content="2021-02-05T11:52:18+08:00" />
 
 
 <style>
@@ -55,8 +55,6 @@
 
 <link rel="stylesheet" href="https://izayoi.cn/assets/css/fuji.min.css" />
 
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css" />
 
 
 
@@ -96,24 +94,17 @@
 <article>
     
     <h2 class="post-item post-title">
-        <a href="https://izayoi.cn/post/%E6%88%91%E7%9A%842020/">我的2020</a>
+        <a href="https://izayoi.cn/post/%E7%89%87%E8%AF%AD/">片语</a>
     </h2>
     <div class="post-item post-meta">
-        <span><i class="iconfont icon-today-sharp"></i>&nbsp;2021-02-02</span><span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;12 字</span><span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;<a href="/tags/%E6%97%B6%E5%85%89">时光</a>&nbsp;</span>
+        <span><i class="iconfont icon-today-sharp"></i>&nbsp;2021-02-05</span><span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;33 字</span><span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;<a href="/tags/%E7%BA%B8%E5%B1%91">纸屑</a>&nbsp;</span>
 
     </div>
     
     <div class="post-content markdown-body">
-        <h2 id="有空再写先放首彩姐的-trance">有空再写。先放首彩姐的 Trance</h2>
-<div class="post-player-wrapper">
-  <div
-    class="post-aplayer"
-    data-urls="/aplayer/GlitteringGlaze.mp3"
-    data-names="Glittering Glaze"
-    data-artists="月代彩"
-    data-covers="/aplayer/2109576450.jpg"
-  ></div>
-</div>
+        <ul>
+<li>往往还是老物好，能留下来不得了。而新事物就需要额外的精力去鉴别质量</li>
+</ul>
 
     </div>
 </article>
@@ -306,53 +297,6 @@
 
 <script defer src="/assets/js/fuji.min.js"></script>
 
-
-<script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
-<script>
-  
-  var pContainers = document.querySelectorAll('.content article .post-aplayer');
-  if (pContainers && pContainers.length > 0) {
-    pContainers.forEach(function (container) {
-      var attrs = ['urls', 'names', 'artists', 'covers'];
-      attrs = attrs.map(function (attr) {
-        var arr = container.getAttribute('data-' + attr).replace(/( |%20)/ig, '').split(',');
-        if (arr.length > 0){
-          return arr.map(function (val) {
-            return String(val).trim();
-          });
-        } else {
-          return attr;
-        }
-      });
-      var audio = [];
-      for (var i = 0; i < attrs[0].length; i++) {
-        var a = {
-          name: attrs[1][i],
-          url: attrs[0][i],
-        };
-        (typeof attrs[2] !== 'string') && (a.artist = attrs[2][i]);
-        (typeof attrs[3] !== 'string') && (a.cover = attrs[3][i]);
-        audio.push(a);
-      }
-      new APlayer({
-        container: container,
-        theme: '#8f82bc',
-        volume: 0.1,
-        listFolded: true,
-        audio: audio
-      });
-    });
-  }
-  
-  
-  document.addEventListener('DOMContentLoaded', function () {
-    var issueTocEle = document.querySelector('.sidebar-toc');
-    if (issueTocEle) {
-      var newTocEle = issueTocEle.cloneNode(true);
-      issueTocEle.parentNode.replaceChild(newTocEle, issueTocEle);
-    }
-  });
-</script>
 
 </body>
 
