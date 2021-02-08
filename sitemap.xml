@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://izayoi.cn/friend/</loc>
+    <lastmod>2021-02-08T19:15:32+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://izayoi.cn/</loc>
     <lastmod>2021-02-05T11:52:18+08:00</lastmod>
   </url>
@@ -23,6 +28,11 @@
   </url>
   
   <url>
+    <loc>https://izayoi.cn/about/</loc>
+    <lastmod>2021-02-04T15:10:30+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://izayoi.cn/post/klee_%E4%B8%BA%E5%A4%8D%E6%9D%82%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90%E9%AB%98%E8%A6%86%E7%9B%96%E7%8E%87%E7%9A%84%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2021-02-03T09:49:32+08:00</lastmod>
   </url>
@@ -40,11 +50,6 @@
   <url>
     <loc>https://izayoi.cn/tags/%E6%97%B6%E5%85%89/</loc>
     <lastmod>2021-02-02T09:48:33+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://izayoi.cn/about/</loc>
-    <lastmod>2020-04-11T19:15:32+08:00</lastmod>
   </url>
   
   <url>
