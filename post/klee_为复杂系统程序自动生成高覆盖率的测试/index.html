@@ -96,7 +96,7 @@
         <a href="https://izayoi.cn/post/klee_%E4%B8%BA%E5%A4%8D%E6%9D%82%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90%E9%AB%98%E8%A6%86%E7%9B%96%E7%8E%87%E7%9A%84%E6%B5%8B%E8%AF%95/">KLEE_为复杂系统程序自动生成高覆盖率的测试</a>
     </h2>
     <div class="post-item post-meta">
-        <span><i class="iconfont icon-today-sharp"></i>&nbsp;2021-02-03</span><span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;3046 字</span><span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;<a href="/tags/%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AE%89%E5%85%A8">二进制安全</a>&nbsp;</span>
+        <span><i class="iconfont icon-today-sharp"></i>&nbsp;2021-02-03</span><span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;3057 字</span><span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;<a href="/tags/%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AE%89%E5%85%A8">二进制安全</a>&nbsp;</span>
 
     </div>
     
@@ -128,26 +128,14 @@
 <p>通过实验，我们得到了如下结论：</p>
 <ol>
 <li>KLEE 在⼤量复杂程序的测试中，达到了很⾼的覆盖率。其⾃动⽣成的测试⽤例覆盖到了 COREUTILS 中 84.5% 的代码⾏，和 BUSYBOX 中（除去库代码）90.5% 的代码⾏。在对于这些程序的测试中，平均能够覆盖 90% 以上的代码⾏（中位数超过 94%）。并在 16 个 COREUTILS 和 31 个BUSYBOX 程序中达到了 100% 的覆盖率；</li>
-<li>KLEE 可以得到⽐起集中化的、持续的⼿动测试来说，显著提⾼的代码覆盖率。在⼤约 89 小时的运
-⾏中，KLEE ⽣成的对 COREUTILS 的代码覆盖测试⽤例的覆盖率，超出了开发者⾃⼰的测试套件
-（持续构建了15年）16.8%！</li>
-<li>除了⼀个例外，KLEE在未更改的应⽤程序上实现了这些⾼覆盖率结果。 唯⼀的例外，以
-COREUTILS排序，需要进⾏⼀次编辑来缩小⼤缓冲区，这会给约束求解器带来问题。</li>
-<li>KLEE 还在经过了严格测试的代码中发现了严重错误。其在 COREUTILS 中发现了10个致命错误
-（包括三个 15 年来都没有被发现的错误），这些错误造成的程序崩溃次数超过 2006、2007 和
-2008 年上报的总和。它进⼀步发现 BUSYBOX 中的 24 个错误，MINIX 中的 21 个错误以及
-HISTAR 中的⼀个安全漏洞——共计 56 个严重的错误。</li>
-<li>KLEE 测试⽤例可以在代码的原代码版本上运⾏（⽐如⽤ gcc 编译），这⼤⼤简化了调试和错误报
-告。 例如，所有 COREUTILS 错误都在两天内得到确认并修复，并且 KLEE ⽣成的测试⽤例也包含
-在了重新发布的版本中。</li>
-<li>KLEE 的能⼒也不仅限于发掘低级编程错误：当⽤于交叉检查据称完全相同的 BUSYBOX 和 GNU
-COREUTILS程序时，KLEE ⾃动发现了功能正确性错误，和两者的⼤量不⼀致之处。</li>
-<li>KLEE 同时也可以应⽤于⾮⽤⼾程序代码。当应⽤于 HISTAR 内核的测试中时，它的平均代码⾏覆
-盖率达 76.4%（有磁盘）和 67.1%（⽆磁盘），并发现了⼀个严重的漏洞。</li>
+<li>KLEE 可以得到⽐起持续集中化的⼿动测试，要显著提⾼的代码覆盖率。在⼤约 89 小时的运⾏中，KLEE ⽣成的对 COREUTILS 的代码覆盖测试⽤例的覆盖率，超出了开发者⾃⼰的测试套件（这是一份持续构建了15年的测试套件）16.8%！</li>
+<li>KLEE 在原生应⽤程序上达成了⾼覆盖率的测试结果。 唯⼀的例外是 COREUTILS 中的 <code>sort</code> 函数，需要进⾏⼀次操作来缩减过大的缓冲区，而这会给约束求解器带来了麻烦。</li>
+<li>KLEE 还在一些经过了严格测试的代码中，发现了严重 bug。其在 COREUTILS 中发现了10个致命 bugs（包括三个 15 年来都没有被发现的 bug），这些 bugs 造成的程序崩溃次数超过 2006、2007 和 2008 年上报的总和。同时，KLEE 还发现了 BUSYBOX 中的 24 个 bugs，MINIX 中的 21 个 bugs 以及 HISTAR 中的⼀个安全漏洞——共计 56 个严重的 bugs。</li>
+<li>KLEE 测试⽤例可以在程序的原代码版本上运⾏（⽐如⽤ gcc 编译得到的）——这⼤⼤简化了调试和错误报告。 例如，所有 COREUTILS 中发现的 bugs 都在两天内得到确认并修复，并且 KLEE ⽣成的测试⽤例也包含在其重新发布的版本中。</li>
+<li>KLEE 的能⼒也不仅限于发掘低级编程错误：当⽤于交叉检查据称完全相同的 BUSYBOX 和 GNU COREUTILS 程序时，KLEE ⾃动发现了逻辑错误，和两者的⼤量不⼀致之处。</li>
+<li>KLEE 同时也可以应⽤于⾮⽤⼾态程序代码。当应⽤于 HISTAR 内核的测试中时，它的平均代码⾏覆盖率达 76.4%（有磁盘 IO）和 67.1%（⽆磁盘 IO），并发现了⼀个严重的漏洞。</li>
 </ol>
-<p>下⼀节将概述我们的⽅法。第 3 节我们将介绍 KLEE，并重点介绍其关键优化。第4节讨论如何对环境
-进⾏建模。本⽂的核⼼是第5节，由此呈现了我们的实验结果。最后，第 6 节介绍了相关⼯作，并在第 7
-节作出总结。</p>
+<p>下⼀节将概述我们的⽅法。第 3 节我们将介绍 KLEE，并重点介绍其关键优化。第 4 节讨论如何对程序运行环境进⾏建模。本⽂的核⼼是第 5 节，于此我们呈现了实验结果。最后，第 6 节介绍了相关⼯作，并在第 7 节作出总结。</p>
 <h2 id="综述">综述</h2>
 <p>本节引导读者通过对 MINIX 中的 tr 工具进行测试来阐述 KLEE 的工作原理。</p>
 
@@ -200,7 +188,7 @@ COREUTILS程序时，KLEE ⾃动发现了功能正确性错误，和两者的⼤
             </li>
             
             <li>
-                <a href="https://www.zhihu.com/people/izayoi-28" target="_blank"><span>知乎</span></a>
+                <a href="https://www.zhihu.com/people/izay01" target="_blank"><span>知乎</span></a>
             </li>
             
             <li>
@@ -289,7 +277,7 @@ COREUTILS程序时，KLEE ⾃动发现了功能正确性错误，和两者的⼤
             </li>
             
             <li>
-                <a href="https://www.zhihu.com/people/izayoi-28" target="_blank"><span>知乎</span></a>
+                <a href="https://www.zhihu.com/people/izay01" target="_blank"><span>知乎</span></a>
             </li>
             
             <li>
