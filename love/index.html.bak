@@ -107,11 +107,9 @@
             color: #EF9A9A;
         }
     </style>
-    <div class="content">
-        <h3></h3>
-        <div class="timer">
-            【 <b id="d"></b> 天 <b id="h"></b> 时 <b id="m"></b> 分 <b id="s"></b> 秒 】
-        </div>
+    <br>
+    <div class="timer">
+        【 <b id="d"></b> 天 <b id="h"></b> 时 <b id="m"></b> 分 <b id="s"></b> 秒 】
     </div>
     <script>
         function timer() {
