@@ -44,6 +44,15 @@
     </item>
     
     <item>
+      <title>相恋</title>
+      <link>https://izayoi.cn/love/</link>
+      <pubDate>Mon, 08 Feb 2021 19:15:32 +0800</pubDate>
+      
+      <guid>https://izayoi.cn/love/</guid>
+      <description>.timer { font-size: 150%; } .timer b { color: #EF9A9A; } 【 天 时 分 秒 】 function timer() { var start = new Date(2017, 8, 30); var t = new Date() - start; var h = ~~(t / 1000 / 60 / 60 % 24); if (h</description>
+    </item>
+    
+    <item>
       <title>片语</title>
       <link>https://izayoi.cn/post/%E7%89%87%E8%AF%AD/</link>
       <pubDate>Fri, 05 Feb 2021 11:52:18 +0800</pubDate>

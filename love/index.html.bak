@@ -9,7 +9,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta http-equiv="Cache-Control" content="no-transform" />
 <meta http-equiv="Cache-Control" content="no-siteapp" />
-<meta name="generator" content="Hugo 0.82.0" />
+<meta name="generator" content="Hugo 0.80.0" />
 
 
 <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
@@ -21,7 +21,7 @@
 
 
 
-<title>相恋 - \ [&gt;_ ] /</title>
+<title>关于 《她》 - \ [&gt;_ ] /</title>
 
 
 <meta name="author" content="IZAY01" />
@@ -29,11 +29,11 @@
 
 
 
-<meta property="og:title" content="相恋" />
-<meta name="twitter:title" content="相恋" />
+<meta property="og:title" content="关于 《她》" />
+<meta name="twitter:title" content="关于 《她》" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://izayoi.cn/love/" /><meta property="og:description" content=".timer { font-size: 150%; } .timer b { color: #EF9A9A; } 【 天 时 分 秒 】 function timer() { var start = new Date(2017, 8, 30); var t = new Date() - start; var h = ~~(t / 1000 / 60 / 60 % 24); if (h" />
-<meta name="twitter:description" content=".timer { font-size: 150%; } .timer b { color: #EF9A9A; } 【 天 时 分 秒 】 function timer() { var start = new Date(2017, 8, 30); var t = new Date() - start; var h = ~~(t / 1000 / 60 / 60 % 24); if (h" /><meta name="twitter:card" content="summary" /><meta property="article:published_time" content="2021-02-08T19:15:32+08:00" /><meta property="article:modified_time" content="2021-02-08T19:15:32+08:00" />
+<meta property="og:url" content="https://izayoi.cn/love/" /><meta property="og:description" content="Love page" />
+<meta name="twitter:description" content="Love page" /><meta name="twitter:card" content="summary" /><meta property="article:published_time" content="2021-02-08T19:15:32+08:00" /><meta property="article:modified_time" content="2021-02-08T19:15:32+08:00" />
 
 
 <style>
@@ -88,53 +88,53 @@
             
             <div class="col-12 col-md-9 float-left content">
                 
+
 <article>
-    
     <h2 class="post-item post-title">
-        <a href="https://izayoi.cn/love/">相恋</a>
+        <a href="https://izayoi.cn/love/">关于 《她》</a>
     </h2>
     <div class="post-item post-meta">
-        <span><i class="iconfont icon-today-sharp"></i>&nbsp;2021-02-08</span><span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;48 字</span><span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;无标签</span>
+        <span><i class="iconfont icon-today-sharp"></i>&nbsp;2021-02-08</span><span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;28 字</span><span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;无标签</span>
 
     </div>
     
     <div class="post-content markdown-body">
-        <style>
-    .timer {
-        font-size: 150%;
-    }
-    .timer b {
-        color: #EF9A9A;
-    }
-</style>
-<br>
-<div class="timer">
-    【 <b id="d"></b> 天 <b id="h"></b> 时 <b id="m"></b> 分 <b id="s"></b> 秒 】
-</div>
-<script>
-    function timer() {
-        var start = new Date(2017, 8, 30);
-        var t = new Date() - start;
-        var h = ~~(t / 1000 / 60 / 60 % 24);
-        if (h < 10) {
-            h = "0" + h;
+    <style>
+        .timer {
+            font-size: 150%;
         }
-        var m = ~~(t / 1000 / 60 % 60);
-        if (m < 10) {
-            m = "0" + m;
+        .timer b {
+            color: #EF9A9A;
         }
-        var s = ~~(t / 1000 % 60);
-        if (s < 10) {
-            s = "0" + s;
+    </style>
+    <br>
+    <div class="timer">
+        【 <b id="d"></b> 天 <b id="h"></b> 时 <b id="m"></b> 分 <b id="s"></b> 秒 】
+    </div>
+    <script>
+        function timer() {
+            var start = new Date(2017, 8, 30);
+            var t = new Date() - start;
+            var h = ~~(t / 1000 / 60 / 60 % 24);
+            if (h < 10) {
+                h = "0" + h;
+            }
+            var m = ~~(t / 1000 / 60 % 60);
+            if (m < 10) {
+                m = "0" + m;
+            }
+            var s = ~~(t / 1000 % 60);
+            if (s < 10) {
+                s = "0" + s;
+            }
+            document.getElementById('d').innerHTML = ~~(t / 1000 / 60 / 60 / 24);
+            document.getElementById('h').innerHTML = h;
+            document.getElementById('m').innerHTML = m;
+            document.getElementById('s').innerHTML = s;
         }
-        document.getElementById('d').innerHTML = ~~(t / 1000 / 60 / 60 / 24);
-        document.getElementById('h').innerHTML = h;
-        document.getElementById('m').innerHTML = m;
-        document.getElementById('s').innerHTML = s;
-    }
-    timer();
-    setInterval(timer, 1000);
-</script>
+        timer();
+        setInterval(timer, 1000);
+    </script>
     </div>
 </article>
 
@@ -193,11 +193,9 @@
     <div class="sidebar-item sidebar-tags">
         <h3>标签</h3>
         <div>
-            
             <span>
                 <a href="/tags/linux/">Linux</a>
             </span>
-            
             <span>
                 <a href="/tags/%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AE%89%E5%85%A8/">二进制安全</a>
             </span>
@@ -278,10 +276,6 @@
     <div class="sidebar-item sidebar-tags">
         <h3>标签</h3>
         <div>
-            
-            <span>
-                <a href="/tags/linux/">Linux</a>
-            </span>
             
             <span>
                 <a href="/tags/%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AE%89%E5%85%A8/">二进制安全</a>
