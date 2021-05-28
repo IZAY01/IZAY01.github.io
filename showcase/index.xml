@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Showcase overview on \ [&gt;_ ] /</title>
+    <title>Showcase overview on IZAY01</title>
     <link>https://izayoi.cn/showcase/</link>
-    <description>Recent content in Showcase overview on \ [&gt;_ ] /</description>
+    <description>Recent content in Showcase overview on IZAY01</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>izayoint0x80@gmail.com (IZAY01)</managingEditor>
@@ -22,11 +22,11 @@
       
       <item>
         <title>个人</title>
-        <link>https://izayoi.cn/showcase/hugo/</link>
+        <link>https://izayoi.cn/showcase/personal/</link>
         <pubDate>Sun, 19 Jan 2020 21:04:11 +0900</pubDate>
         <author>izayoint0x80@gmail.com (IZAY01)</author>
         <atom:modified>Sun, 19 Jan 2020 21:04:11 +0900</atom:modified>
-        <guid>https://izayoi.cn/showcase/hugo/</guid>
+        <guid>https://izayoi.cn/showcase/personal/</guid>
         <description></description>
         
         <dc:creator>IZAY01</dc:creator>

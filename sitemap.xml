@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://izayoi.cn/showcase/hugo/hugo-theme-zzo/</loc>
+    <loc>https://izayoi.cn/showcase/personal/izayoi/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url><url>
-    <loc>https://izayoi.cn/showcase/hugo/hugo-theme-zdoc/</loc>
+    <loc>https://izayoi.cn/showcase/personal/github/</loc>
+    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/showcase/personal/gitbook/</loc>
+    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/showcase/personal/gitbook-edit/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url><url>
     <loc>https://izayoi.cn/</loc>
@@ -71,7 +77,7 @@
     <loc>https://izayoi.cn/posts/shortcodes/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
   </url><url>
-    <loc>https://izayoi.cn/showcase/hugo/</loc>
+    <loc>https://izayoi.cn/showcase/personal/</loc>
     <lastmod>2020-01-19T21:04:11+09:00</lastmod>
   </url><url>
     <loc>https://izayoi.cn/showcase/</loc>
