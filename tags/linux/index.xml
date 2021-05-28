@@ -1,29 +1,74 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Linux on \ [&gt;_ ] /</title>
     <link>https://izayoi.cn/tags/linux/</link>
     <description>Recent content in Linux on \ [&gt;_ ] /</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-hans</language>
-    <lastBuildDate>Mon, 26 Apr 2021 14:28:17 +0800</lastBuildDate><atom:link href="https://izayoi.cn/tags/linux/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Linux Desktop荒岛生存笔记</title>
-      <link>https://izayoi.cn/post/linux-desktop%E8%8D%92%E5%B2%9B%E7%94%9F%E5%AD%98%E7%AC%94%E8%AE%B0/</link>
-      <pubDate>Mon, 26 Apr 2021 14:28:17 +0800</pubDate>
-      
-      <guid>https://izayoi.cn/post/linux-desktop%E8%8D%92%E5%B2%9B%E7%94%9F%E5%AD%98%E7%AC%94%E8%AE%B0/</guid>
-      <description>第一话 咳咳…… 算来将 Linux-desktop 作为主系统已是三载有余了。自三年前，我的表姐帮忙在我那破费了 550 大洋于中关村奸商市场讨来的 ThinkPad x200 装上了 Ubuntu18.04 后，就注定了往后几十年的折腾生涯…… 🐶🐶🐶 从 Ubuntu 到 Kali，从 Deepin 到 Manjaro</description>
-    </item>
+    <language>zh</language>
+    <managingEditor>izayoint0x80@gmail.com (IZAY01)</managingEditor>
+    <webMaster>izayoint0x80@gmail.com (IZAY01)</webMaster>
+    <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 26 Apr 2021 14:28:17 +0800</lastBuildDate>
     
-    <item>
-      <title>私酿KDE美化攻略</title>
-      <link>https://izayoi.cn/post/%E7%A7%81%E9%85%BFkde%E7%BE%8E%E5%8C%96%E6%94%BB%E7%95%A5/</link>
-      <pubDate>Thu, 04 Mar 2021 17:21:45 +0800</pubDate>
+        <atom:link href="https://izayoi.cn/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+
       
-      <guid>https://izayoi.cn/post/%E7%A7%81%E9%85%BFkde%E7%BE%8E%E5%8C%96%E6%94%BB%E7%95%A5/</guid>
-      <description>当前效果，继续改进中 第一屏 第二屏 全部都要透明！ 窗口栏透明效果 如果喜欢微风的窗口装饰，使用BreezeBlurred 如果喜欢OSX的红绿灯风格窗口装饰，使用SierraBreeze 对于 BreezeBlu</description>
-    </item>
+      <item>
+        <title>Linux Desktop荒岛生存笔记</title>
+        <link>https://izayoi.cn/posts/linux-desktop%E8%8D%92%E5%B2%9B%E7%94%9F%E5%AD%98%E7%AC%94%E8%AE%B0/</link>
+        <pubDate>Mon, 26 Apr 2021 14:28:17 +0800</pubDate>
+        <author>izayoint0x80@gmail.com (IZAY01)</author>
+        <atom:modified>Mon, 26 Apr 2021 14:28:17 +0800</atom:modified>
+        <guid>https://izayoi.cn/posts/linux-desktop%E8%8D%92%E5%B2%9B%E7%94%9F%E5%AD%98%E7%AC%94%E8%AE%B0/</guid>
+        <description>第一话 咳咳…… 算来将 Linux-desktop 作为主系统已是三载有余了。自三年前，我的表姐帮忙在我那破费了 550 大洋于中关村奸商市场讨来的 ThinkPad x200 装上了 Ubuntu18.04 后，就注定了往后几</description>
+        
+        <dc:creator>IZAY01</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Linux</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>私酿KDE美化攻略</title>
+        <link>https://izayoi.cn/posts/%E7%A7%81%E9%85%BFkde%E7%BE%8E%E5%8C%96%E6%94%BB%E7%95%A5/</link>
+        <pubDate>Thu, 04 Mar 2021 17:21:45 +0800</pubDate>
+        <author>izayoint0x80@gmail.com (IZAY01)</author>
+        <atom:modified>Thu, 04 Mar 2021 17:21:45 +0800</atom:modified>
+        <guid>https://izayoi.cn/posts/%E7%A7%81%E9%85%BFkde%E7%BE%8E%E5%8C%96%E6%94%BB%E7%95%A5/</guid>
+        <description>当前效果，继续改进中 第一屏 第二屏 全部都要透明！ 窗口栏透明效果 如果喜欢微风的窗口装饰，使用BreezeBlurred 如果喜欢OSX的红绿灯风格</description>
+        
+        <dc:creator>IZAY01</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Linux</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
     
   </channel>
 </rss>

@@ -1,20 +1,50 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>纸屑 on \ [&gt;_ ] /</title>
     <link>https://izayoi.cn/tags/%E7%BA%B8%E5%B1%91/</link>
     <description>Recent content in 纸屑 on \ [&gt;_ ] /</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-hans</language>
-    <lastBuildDate>Fri, 05 Feb 2021 11:52:18 +0800</lastBuildDate><atom:link href="https://izayoi.cn/tags/%E7%BA%B8%E5%B1%91/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>片语</title>
-      <link>https://izayoi.cn/post/%E7%89%87%E8%AF%AD/</link>
-      <pubDate>Fri, 05 Feb 2021 11:52:18 +0800</pubDate>
+    <language>zh</language>
+    <managingEditor>izayoint0x80@gmail.com (IZAY01)</managingEditor>
+    <webMaster>izayoint0x80@gmail.com (IZAY01)</webMaster>
+    <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 05 Feb 2021 11:52:18 +0800</lastBuildDate>
+    
+        <atom:link href="https://izayoi.cn/tags/%E7%BA%B8%E5%B1%91/index.xml" rel="self" type="application/rss+xml" />
+    
+
       
-      <guid>https://izayoi.cn/post/%E7%89%87%E8%AF%AD/</guid>
-      <description>要始终饱含对信息与数据的渴求呐！ 未来肯定是Cyber世界（😼） “死亡是凉爽的夜晚，生活是痛苦的白天。” —— 海涅 Nothing&amp;rsquo;s ever built to last. You are in ruins. —— 《21 Guns》 “当你老了，回顾一生，就会发觉。什么时候出国读书，什</description>
-    </item>
+      <item>
+        <title>片语</title>
+        <link>https://izayoi.cn/posts/%E7%89%87%E8%AF%AD/</link>
+        <pubDate>Fri, 05 Feb 2021 11:52:18 +0800</pubDate>
+        <author>izayoint0x80@gmail.com (IZAY01)</author>
+        <atom:modified>Fri, 05 Feb 2021 11:52:18 +0800</atom:modified>
+        <guid>https://izayoi.cn/posts/%E7%89%87%E8%AF%AD/</guid>
+        <description>要始终饱含对信息与数据的渴求呐！ 未来肯定是Cyber世界（😼） “死亡是凉爽的夜晚，生活是痛苦的白天。” —— 海涅 Nothing&amp;rsquo;s ever built to last. You are in ruins. —— 《21 G</description>
+        
+        <dc:creator>IZAY01</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>纸屑</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
     
   </channel>
 </rss>

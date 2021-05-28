@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://izayoi.cn/showcase/hugo/hugo-theme-zzo/</loc>
+    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/showcase/hugo/hugo-theme-zdoc/</loc>
+    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
+  </url><url>
     <loc>https://izayoi.cn/</loc>
     <lastmod>2021-05-06T12:00:57+08:00</lastmod>
   </url><url>
-    <loc>https://izayoi.cn/post/</loc>
+    <loc>https://izayoi.cn/posts/</loc>
     <lastmod>2021-05-06T12:00:57+08:00</lastmod>
   </url><url>
-    <loc>https://izayoi.cn/post/%E4%BB%8A%E6%97%A5%E4%BB%BD%E7%9A%84%E8%BF%B7%E8%8C%AB/</loc>
+    <loc>https://izayoi.cn/tags/</loc>
+    <lastmod>2021-05-06T12:00:57+08:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/posts/%E4%BB%8A%E6%97%A5%E4%BB%BD%E7%9A%84%E8%BF%B7%E8%8C%AB/</loc>
     <lastmod>2021-05-06T12:00:57+08:00</lastmod>
   </url><url>
     <loc>https://izayoi.cn/tags/%E6%97%B6%E5%85%89/</loc>
@@ -17,46 +26,192 @@
     <loc>https://izayoi.cn/tags/linux/</loc>
     <lastmod>2021-04-26T14:28:17+08:00</lastmod>
   </url><url>
-    <loc>https://izayoi.cn/post/linux-desktop%E8%8D%92%E5%B2%9B%E7%94%9F%E5%AD%98%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://izayoi.cn/posts/linux-desktop%E8%8D%92%E5%B2%9B%E7%94%9F%E5%AD%98%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2021-04-26T14:28:17+08:00</lastmod>
   </url><url>
-    <loc>https://izayoi.cn/post/%E6%97%A5%E8%AE%B0%E5%8D%A1%E7%89%87/</loc>
+    <loc>https://izayoi.cn/posts/%E6%97%A5%E8%AE%B0%E5%8D%A1%E7%89%87/</loc>
     <lastmod>2021-03-08T15:38:09+08:00</lastmod>
   </url><url>
-    <loc>https://izayoi.cn/post/%E7%A7%81%E9%85%BFkde%E7%BE%8E%E5%8C%96%E6%94%BB%E7%95%A5/</loc>
+    <loc>https://izayoi.cn/posts/%E7%A7%81%E9%85%BFkde%E7%BE%8E%E5%8C%96%E6%94%BB%E7%95%A5/</loc>
     <lastmod>2021-03-04T17:21:45+08:00</lastmod>
   </url><url>
-    <loc>https://izayoi.cn/post/%E8%AE%B0%E5%9C%A8360%E5%AE%9E%E4%B9%A0%E7%9A%84%E8%BF%99%E6%AE%B5%E6%97%A5%E5%AD%90/</loc>
+    <loc>https://izayoi.cn/posts/%E8%AE%B0%E5%9C%A8360%E5%AE%9E%E4%B9%A0%E7%9A%84%E8%BF%99%E6%AE%B5%E6%97%A5%E5%AD%90/</loc>
     <lastmod>2021-03-02T15:47:10+08:00</lastmod>
   </url><url>
-    <loc>https://izayoi.cn/friend/</loc>
-    <lastmod>2021-02-08T19:15:32+08:00</lastmod>
-  </url><url>
-    <loc>https://izayoi.cn/love/</loc>
-    <lastmod>2021-02-08T19:15:32+08:00</lastmod>
-  </url><url>
-    <loc>https://izayoi.cn/post/%E7%89%87%E8%AF%AD/</loc>
+    <loc>https://izayoi.cn/posts/%E7%89%87%E8%AF%AD/</loc>
     <lastmod>2021-02-05T11:52:18+08:00</lastmod>
   </url><url>
     <loc>https://izayoi.cn/tags/%E7%BA%B8%E5%B1%91/</loc>
     <lastmod>2021-02-05T11:52:18+08:00</lastmod>
   </url><url>
-    <loc>https://izayoi.cn/about/</loc>
-    <lastmod>2021-02-04T15:10:30+08:00</lastmod>
-  </url><url>
-    <loc>https://izayoi.cn/post/klee_%E4%B8%BA%E5%A4%8D%E6%9D%82%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90%E9%AB%98%E8%A6%86%E7%9B%96%E7%8E%87%E7%9A%84%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://izayoi.cn/posts/klee_%E4%B8%BA%E5%A4%8D%E6%9D%82%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90%E9%AB%98%E8%A6%86%E7%9B%96%E7%8E%87%E7%9A%84%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2021-02-03T09:49:32+08:00</lastmod>
   </url><url>
     <loc>https://izayoi.cn/tags/%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AE%89%E5%85%A8/</loc>
     <lastmod>2021-02-03T09:49:32+08:00</lastmod>
   </url><url>
-    <loc>https://izayoi.cn/post/%E8%AE%B0-2020/</loc>
+    <loc>https://izayoi.cn/posts/%E8%AE%B0-2020/</loc>
     <lastmod>2021-02-02T09:48:33+08:00</lastmod>
   </url><url>
-    <loc>https://izayoi.cn/archives/</loc>
+    <loc>https://izayoi.cn/publication/article/</loc>
+    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url><url>
-    <loc>https://izayoi.cn/search/</loc>
+    <loc>https://izayoi.cn/publication/book/</loc>
+    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url><url>
-    <loc>https://izayoi.cn/link/</loc>
+    <loc>https://izayoi.cn/publication/misc/</loc>
+    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/publication/</loc>
+    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/tags/shortcode/</loc>
+    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/posts/shortcodes/</loc>
+    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/showcase/hugo/</loc>
+    <lastmod>2020-01-19T21:04:11+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/showcase/</loc>
+    <lastmod>2020-01-19T15:43:38+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/categories/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/tags/css/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/tags/html/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/tags/markdown/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/posts/markdown-syntax/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/series/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/categories/syntax/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/tags/themes/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/categories/themes/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/series/themes-guide/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/tags/hugo/</loc>
+    <lastmod>2019-12-18T10:33:41+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/categories/hugo/</loc>
+    <lastmod>2019-12-18T10:33:41+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/posts/syntax-highlight/</loc>
+    <lastmod>2019-12-18T10:33:41+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/posts/math-typesetting/</loc>
+    <lastmod>2019-12-17T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/tags/amoji/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/tags/bamoji/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/tags/emoji/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/posts/emoji-support/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/tags/gamoji/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/tags/namoji/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/categories/diagram/</loc>
+    <lastmod>2019-11-18T21:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/posts/test-viz/</loc>
+    <lastmod>2019-11-18T21:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/posts/test-wavedrom/</loc>
+    <lastmod>2019-11-18T18:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/posts/test-chartjs/</loc>
+    <lastmod>2019-11-18T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/posts/test-js-sequence-diagrams/</loc>
+    <lastmod>2019-11-18T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/tags/diagram/</loc>
+    <lastmod>2019-11-17T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/posts/test-mermaid/</loc>
+    <lastmod>2019-11-17T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/categories/math/</loc>
+    <lastmod>2019-11-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/posts/test-mathjax/</loc>
+    <lastmod>2019-11-16T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/posts/test-katex/</loc>
+    <lastmod>2019-11-15T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/posts/test-flowchart/</loc>
+    <lastmod>2019-11-14T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/gallery/cartoon/</loc>
+    <lastmod>2019-10-31T10:20:16+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/gallery/</loc>
+    <lastmod>2019-10-31T10:20:16+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/gallery/photo/</loc>
+    <lastmod>2019-10-31T10:20:16+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/presentation/dir/fourth/</loc>
+    <lastmod>2019-10-30T20:48:10+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/presentation/</loc>
+    <lastmod>2019-10-30T20:48:10+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/presentation/third/</loc>
+    <lastmod>2019-10-30T20:46:30+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/presentation/second/</loc>
+    <lastmod>2019-10-30T20:45:24+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/presentation/first/</loc>
+    <lastmod>2019-10-30T19:45:20+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/archive/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/friend/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/publication/article/article_any_folder_name_1/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/publication/book/book_any_folder_name_1/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/publication/misc/misc_any_folder_name_1/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://izayoi.cn/tags/index/</loc>
   </url>
 </urlset>
