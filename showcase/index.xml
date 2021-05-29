@@ -13,7 +13,7 @@
     <language>zh</language>
     <managingEditor>izayoint0x80@gmail.com (IZAY01)</managingEditor>
     <webMaster>izayoint0x80@gmail.com (IZAY01)</webMaster>
-    <copyright>©2021, All Rights Reserved</copyright>
+    <copyright>©2021, All Rights Abandoned</copyright>
     <lastBuildDate>Sun, 19 Jan 2020 15:43:38 +0900</lastBuildDate>
     
         <atom:link href="https://izayoi.cn/showcase/index.xml" rel="self" type="application/rss+xml" />
@@ -21,12 +21,30 @@
 
       
       <item>
-        <title>个人</title>
+        <title>IZAYOI</title>
         <link>https://izayoi.cn/showcase/personal/</link>
         <pubDate>Sun, 19 Jan 2020 21:04:11 +0900</pubDate>
         <author>izayoint0x80@gmail.com (IZAY01)</author>
         <atom:modified>Sun, 19 Jan 2020 21:04:11 +0900</atom:modified>
         <guid>https://izayoi.cn/showcase/personal/</guid>
+        <description></description>
+        
+        <dc:creator>IZAY01</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Friend</title>
+        <link>https://izayoi.cn/showcase/friend/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>izayoint0x80@gmail.com (IZAY01)</author>
+        
+        <guid>https://izayoi.cn/showcase/friend/</guid>
         <description></description>
         
         <dc:creator>IZAY01</dc:creator>

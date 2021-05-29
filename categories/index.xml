@@ -13,20 +13,20 @@
     <language>zh</language>
     <managingEditor>izayoint0x80@gmail.com (IZAY01)</managingEditor>
     <webMaster>izayoint0x80@gmail.com (IZAY01)</webMaster>
-    <copyright>©2021, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 20 Dec 2019 12:00:06 +0900</lastBuildDate>
+    <copyright>©2021, All Rights Abandoned</copyright>
+    <lastBuildDate>Thu, 06 May 2021 12:00:57 +0800</lastBuildDate>
     
         <atom:link href="https://izayoi.cn/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
-        <title>syntax</title>
-        <link>https://izayoi.cn/categories/syntax/</link>
-        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
+        <title>时光</title>
+        <link>https://izayoi.cn/categories/%E6%97%B6%E5%85%89/</link>
+        <pubDate>Thu, 06 May 2021 12:00:57 +0800</pubDate>
         <author>izayoint0x80@gmail.com (IZAY01)</author>
         
-        <guid>https://izayoi.cn/categories/syntax/</guid>
+        <guid>https://izayoi.cn/categories/%E6%97%B6%E5%85%89/</guid>
         <description></description>
         
         <dc:creator>IZAY01</dc:creator>
@@ -39,12 +39,12 @@
       </item>
       
       <item>
-        <title>themes</title>
-        <link>https://izayoi.cn/categories/themes/</link>
-        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
+        <title>折腾</title>
+        <link>https://izayoi.cn/categories/%E6%8A%98%E8%85%BE/</link>
+        <pubDate>Mon, 26 Apr 2021 14:28:17 +0800</pubDate>
         <author>izayoint0x80@gmail.com (IZAY01)</author>
         
-        <guid>https://izayoi.cn/categories/themes/</guid>
+        <guid>https://izayoi.cn/categories/%E6%8A%98%E8%85%BE/</guid>
         <description></description>
         
         <dc:creator>IZAY01</dc:creator>
@@ -57,48 +57,12 @@
       </item>
       
       <item>
-        <title>hugo</title>
-        <link>https://izayoi.cn/categories/hugo/</link>
-        <pubDate>Wed, 18 Dec 2019 10:33:41 +0900</pubDate>
+        <title>纸屑</title>
+        <link>https://izayoi.cn/categories/%E7%BA%B8%E5%B1%91/</link>
+        <pubDate>Fri, 05 Feb 2021 11:52:18 +0800</pubDate>
         <author>izayoint0x80@gmail.com (IZAY01)</author>
         
-        <guid>https://izayoi.cn/categories/hugo/</guid>
-        <description></description>
-        
-        <dc:creator>IZAY01</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>diagram</title>
-        <link>https://izayoi.cn/categories/diagram/</link>
-        <pubDate>Mon, 18 Nov 2019 21:00:06 +0900</pubDate>
-        <author>izayoint0x80@gmail.com (IZAY01)</author>
-        
-        <guid>https://izayoi.cn/categories/diagram/</guid>
-        <description></description>
-        
-        <dc:creator>IZAY01</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>math</title>
-        <link>https://izayoi.cn/categories/math/</link>
-        <pubDate>Sat, 16 Nov 2019 12:00:06 +0900</pubDate>
-        <author>izayoint0x80@gmail.com (IZAY01)</author>
-        
-        <guid>https://izayoi.cn/categories/math/</guid>
+        <guid>https://izayoi.cn/categories/%E7%BA%B8%E5%B1%91/</guid>
         <description></description>
         
         <dc:creator>IZAY01</dc:creator>
