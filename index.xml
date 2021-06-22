@@ -14,7 +14,7 @@
     <managingEditor>izayoint0x80@gmail.com (IZAY01)</managingEditor>
     <webMaster>izayoint0x80@gmail.com (IZAY01)</webMaster>
     <copyright>©2021, All Rights Abandoned</copyright>
-    <lastBuildDate>Thu, 06 May 2021 12:00:57 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jun 2021 15:38:10 +0800</lastBuildDate>
     
         <atom:link href="https://izayoi.cn/index.xml" rel="self" type="application/rss+xml" />
     
@@ -42,13 +42,31 @@
 
       
       <item>
+        <title>相恋</title>
+        <link>https://izayoi.cn/posts/%E7%9B%B8%E6%81%8B/</link>
+        <pubDate>Tue, 22 Jun 2021 15:38:10 +0800</pubDate>
+        <author>izayoint0x80@gmail.com (IZAY01)</author>
+        <atom:modified>Tue, 22 Jun 2021 15:38:10 +0800</atom:modified>
+        <guid>https://izayoi.cn/posts/%E7%9B%B8%E6%81%8B/</guid>
+        <description>.timer { font-size: 150%; } .timer b { color: #EF9A9A; } 【 天 时 分 秒 】 function timer() { var start = new Date(2017, 8, 30); var t = new Date() - start; var h = ~~(t / 1000 / 60 / 60 % 24); if (h</description>
+        
+        <dc:creator>IZAY01</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>今日份的迷茫</title>
         <link>https://izayoi.cn/posts/%E4%BB%8A%E6%97%A5%E4%BB%BD%E7%9A%84%E8%BF%B7%E8%8C%AB/</link>
         <pubDate>Thu, 06 May 2021 12:00:57 +0800</pubDate>
         <author>izayoint0x80@gmail.com (IZAY01)</author>
         <atom:modified>Thu, 06 May 2021 12:00:57 +0800</atom:modified>
         <guid>https://izayoi.cn/posts/%E4%BB%8A%E6%97%A5%E4%BB%BD%E7%9A%84%E8%BF%B7%E8%8C%AB/</guid>
-        <description>写于五一重庆游后的感冒状态工作日 果然是迷茫永不缺席…… 一路走来，从来没有拥有过现在想要的生活，却慢慢得到了过去想要的生活 一首《知足》唱了这么</description>
+        <description>写于五一重庆游后的感冒状态工作日 果然是迷茫永不缺席…… 一路走来，从来没有拥有过现在想要的生活，却慢慢得到了过去想要的生活 一首《知足》这么多年</description>
         
         <dc:creator>IZAY01</dc:creator>
         
@@ -102,7 +120,7 @@
         <author>izayoint0x80@gmail.com (IZAY01)</author>
         <atom:modified>Mon, 08 Mar 2021 15:38:09 +0800</atom:modified>
         <guid>https://izayoi.cn/posts/%E6%97%A5%E8%AE%B0%E5%8D%A1%E7%89%87/</guid>
-        <description>刻意留意大脑噪声——说不定里面有一些有价值的东西 当了两天废人……既不会留在过去的记忆也不会对将来产生任何影响 人生很长，我不着急 我想我应该记录</description>
+        <description>这是第几次梦见大学中的高中生活了？ 刻意留意大脑噪声——说不定里面有一些有价值的东西 当了两天废人……既不会留在过去的记忆也不会对将来产生任何影</description>
         
         <dc:creator>IZAY01</dc:creator>
         
@@ -126,7 +144,7 @@
         <author>izayoint0x80@gmail.com (IZAY01)</author>
         <atom:modified>Thu, 04 Mar 2021 17:21:45 +0800</atom:modified>
         <guid>https://izayoi.cn/posts/%E7%A7%81%E9%85%BFkde%E7%BE%8E%E5%8C%96%E6%94%BB%E7%95%A5/</guid>
-        <description>当前效果，继续改进中 第一屏 第二屏 全部都要透明！ 窗口栏透明效果 如果喜欢微风的窗口装饰，使用BreezeBlurred 如果喜欢OSX的红绿灯风格</description>
+        <description>更：Air14已退役，已转Windows 当前效果，继续改进中 第一屏 第二屏 全部都要透明！ 窗口栏透明效果 如果喜欢微风的窗口装饰，使用Breeze</description>
         
         <dc:creator>IZAY01</dc:creator>
         
@@ -180,7 +198,7 @@
         <author>izayoint0x80@gmail.com (IZAY01)</author>
         <atom:modified>Fri, 05 Feb 2021 11:52:18 +0800</atom:modified>
         <guid>https://izayoi.cn/posts/%E7%89%87%E8%AF%AD/</guid>
-        <description>要始终饱含对信息与数据的渴求呐！ 未来肯定是Cyber世界（😼） “死亡是凉爽的夜晚，生活是痛苦的白天。” —— 海涅 Nothing&amp;rsquo;s ever built to last. You are in ruins. —— 《21 G</description>
+        <description>以往的大二病言论我决定不删除，留着自己以后用来肉麻。 😎 要始终饱含对信息与数据的渴求呐！ 未来肯定是Cyber世界（😼） “死亡是凉爽的夜晚，生活</description>
         
         <dc:creator>IZAY01</dc:creator>
         
