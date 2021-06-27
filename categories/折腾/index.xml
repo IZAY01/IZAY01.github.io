@@ -11,8 +11,8 @@
     <description>Recent content in 折腾 on IZAY01</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>izayoint0x80@gmail.com (IZAY01)</managingEditor>
-    <webMaster>izayoint0x80@gmail.com (IZAY01)</webMaster>
+    <managingEditor>izayoint0x80@foxmail.com (IZAY01)</managingEditor>
+    <webMaster>izayoint0x80@foxmail.com (IZAY01)</webMaster>
     <copyright>©2021, All Rights Abandoned</copyright>
     <lastBuildDate>Mon, 26 Apr 2021 14:28:17 +0800</lastBuildDate>
     
@@ -24,7 +24,7 @@
         <title>Linux Desktop荒岛生存笔记</title>
         <link>https://izayoi.cn/posts/linux-desktop%E8%8D%92%E5%B2%9B%E7%94%9F%E5%AD%98%E7%AC%94%E8%AE%B0/</link>
         <pubDate>Mon, 26 Apr 2021 14:28:17 +0800</pubDate>
-        <author>izayoint0x80@gmail.com (IZAY01)</author>
+        <author>izayoint0x80@foxmail.com (IZAY01)</author>
         <atom:modified>Mon, 26 Apr 2021 14:28:17 +0800</atom:modified>
         <guid>https://izayoi.cn/posts/linux-desktop%E8%8D%92%E5%B2%9B%E7%94%9F%E5%AD%98%E7%AC%94%E8%AE%B0/</guid>
         <description>第一话 咳咳…… 算来将 Linux-desktop 作为主系统已是三载有余了。自三年前，我的表姐帮忙在我那破费了 550 大洋于中关村奸商市场讨来的 ThinkPad x200 装上了 Ubuntu18.04 后，就注定了往后几</description>
@@ -54,7 +54,7 @@
         <title>私酿KDE美化攻略</title>
         <link>https://izayoi.cn/posts/%E7%A7%81%E9%85%BFkde%E7%BE%8E%E5%8C%96%E6%94%BB%E7%95%A5/</link>
         <pubDate>Thu, 04 Mar 2021 17:21:45 +0800</pubDate>
-        <author>izayoint0x80@gmail.com (IZAY01)</author>
+        <author>izayoint0x80@foxmail.com (IZAY01)</author>
         <atom:modified>Thu, 04 Mar 2021 17:21:45 +0800</atom:modified>
         <guid>https://izayoi.cn/posts/%E7%A7%81%E9%85%BFkde%E7%BE%8E%E5%8C%96%E6%94%BB%E7%95%A5/</guid>
         <description>更：Air14已退役，已转Windows 当前效果，继续改进中 第一屏 第二屏 全部都要透明！ 窗口栏透明效果 如果喜欢微风的窗口装饰，使用Breeze</description>
@@ -84,7 +84,7 @@
         <title>页面渲染 cookbook</title>
         <link>https://izayoi.cn/posts/%E9%A1%B5%E9%9D%A2%E6%B8%B2%E6%9F%93-cookbook/</link>
         <pubDate>Wed, 18 Dec 2019 10:33:41 +0900</pubDate>
-        <author>izayoint0x80@gmail.com (IZAY01)</author>
+        <author>izayoint0x80@foxmail.com (IZAY01)</author>
         <atom:modified>Wed, 18 Dec 2019 10:33:41 +0900</atom:modified>
         <guid>https://izayoi.cn/posts/%E9%A1%B5%E9%9D%A2%E6%B8%B2%E6%9F%93-cookbook/</guid>
         <description>&lt;h2 id=&#34;code-syntax-highlighting&#34;&gt;Code Syntax Highlighting&lt;/h2&gt;
@@ -222,7 +222,7 @@
 &lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
 &lt;td class=&#34;lntd&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;k&#34;&gt;print&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;Hello, world!&amp;#34;&lt;/span&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;Hello, world!&amp;#34;&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;h3 id=&#34;xml&#34;&gt;XML&lt;/h3&gt;

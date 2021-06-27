@@ -1349,7 +1349,7 @@
 <meta property="og:type" content="article">
 <meta property="og:description" content="やれやれ DA★ZE">
 
-<meta name="generator" content="Hugo 0.83.1" />
+<meta name="generator" content="Hugo 0.84.1" />
 <meta name="msapplication-TileColor" content="#fff">
 
 <meta name="theme-color" content="#fff">
@@ -2267,7 +2267,7 @@
 <pre class="chroma"><code class="language-c" data-lang="c"><span class="mi">1</span> <span class="o">:</span> <span class="k">static</span> <span class="kt">void</span> <span class="n">test</span><span class="p">(</span><span class="kt">void</span> <span class="o">*</span><span class="n">upage</span><span class="p">,</span> <span class="kt">unsigned</span> <span class="n">num</span> <span class="n">calls</span><span class="p">)</span> <span class="p">{</span>
 <span class="mi">2</span> <span class="o">:</span> 	<span class="n">make_symbolic</span><span class="p">(</span><span class="n">upage</span><span class="p">,</span> <span class="n">PGSIZE</span><span class="p">);</span>
 <span class="mi">3</span> <span class="o">:</span> 	<span class="k">for</span> <span class="p">(</span><span class="kt">int</span> <span class="n">i</span><span class="o">=</span><span class="mi">0</span><span class="p">;</span> <span class="n">i</span><span class="o">&lt;</span><span class="n">num</span> <span class="n">calls</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
-<span class="mi">4</span> <span class="o">:</span> 		<span class="n">uint64_t</span> <span class="n">args</span><span class="p">[</span><span class="mi">8</span><span class="p">];</span>
+<span class="mi">4</span> <span class="o">:</span> 		<span class="kt">uint64_t</span> <span class="n">args</span><span class="p">[</span><span class="mi">8</span><span class="p">];</span>
 <span class="mi">5</span> <span class="o">:</span> 		<span class="k">for</span> <span class="p">(</span><span class="kt">int</span> <span class="n">j</span><span class="o">=</span><span class="mi">0</span><span class="p">;</span> <span class="n">j</span><span class="o">&lt;</span><span class="mi">8</span><span class="p">;</span> <span class="n">j</span><span class="o">++</span><span class="p">)</span>
 <span class="mi">6</span> <span class="o">:</span> 			<span class="n">make_symbolic</span><span class="p">(</span><span class="o">&amp;</span><span class="n">args</span><span class="p">[</span><span class="n">j</span><span class="p">],</span> <span class="k">sizeof</span><span class="p">(</span><span class="n">args</span><span class="p">[</span><span class="n">j</span><span class="p">]));</span>
 <span class="mi">7</span> <span class="o">:</span> 		<span class="n">kern_syscall</span><span class="p">(</span><span class="n">args</span><span class="p">[</span><span class="mi">0</span><span class="p">],</span> <span class="n">args</span><span class="p">[</span><span class="mi">1</span><span class="p">],</span> <span class="n">args</span><span class="p">[</span><span class="mi">2</span><span class="p">],</span> <span class="n">args</span><span class="p">[</span><span class="mi">3</span><span class="p">],</span>
