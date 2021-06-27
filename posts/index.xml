@@ -51,7 +51,7 @@
         <author>izayoint0x80@foxmail.com (IZAY01)</author>
         <atom:modified>Tue, 22 Jun 2021 15:38:10 +0800</atom:modified>
         <guid>https://izayoi.cn/posts/%E7%9B%B8%E6%81%8B/</guid>
-        <description>滴答滴 .timer { font-size: 150%; } .timer b { color: #EF9A9A; } 【 天 时 分 秒 】 function timer() { var start = new Date(2017, 8, 30); var t = new Date() - start; var h = ~~(t / 1000 / 60 / 60 % 24); if (h</description>
+        <description>滴 答 滴 .timer { font-size: 150%; } .timer b { color: #EF9A9A; } 【 天 时 分 秒 】 function timer() { var start = new Date(2017, 8, 30); var t = new Date() - start; var h = ~~(t / 1000 / 60 / 60 % 24); if (h</description>
         
         <dc:creator>IZAY01</dc:creator>
         
