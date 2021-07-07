@@ -6,13 +6,13 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Categories on IZAY01</title>
+    <title>Categories on Dev Zero</title>
     <link>https://izayoi.cn/categories/</link>
-    <description>Recent content in Categories on IZAY01</description>
+    <description>Recent content in Categories on Dev Zero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>izayoint0x80@foxmail.com (IZAY01)</managingEditor>
-    <webMaster>izayoint0x80@foxmail.com (IZAY01)</webMaster>
+    <managingEditor>dev2ero@foxmail.com (Dev Zero)</managingEditor>
+    <webMaster>dev2ero@foxmail.com (Dev Zero)</webMaster>
     <copyright>©2021, All Rights Abandoned</copyright>
     <lastBuildDate>Tue, 22 Jun 2021 20:49:36 +0800</lastBuildDate>
     
@@ -24,12 +24,12 @@
         <title>时光</title>
         <link>https://izayoi.cn/categories/%E6%97%B6%E5%85%89/</link>
         <pubDate>Tue, 22 Jun 2021 20:49:36 +0800</pubDate>
-        <author>izayoint0x80@foxmail.com (IZAY01)</author>
+        <author>dev2ero@foxmail.com (Dev Zero)</author>
         
         <guid>https://izayoi.cn/categories/%E6%97%B6%E5%85%89/</guid>
         <description></description>
         
-        <dc:creator>IZAY01</dc:creator>
+        <dc:creator>Dev Zero</dc:creator>
         
         
         
@@ -42,12 +42,12 @@
         <title>折腾</title>
         <link>https://izayoi.cn/categories/%E6%8A%98%E8%85%BE/</link>
         <pubDate>Mon, 26 Apr 2021 14:28:17 +0800</pubDate>
-        <author>izayoint0x80@foxmail.com (IZAY01)</author>
+        <author>dev2ero@foxmail.com (Dev Zero)</author>
         
         <guid>https://izayoi.cn/categories/%E6%8A%98%E8%85%BE/</guid>
         <description></description>
         
-        <dc:creator>IZAY01</dc:creator>
+        <dc:creator>Dev Zero</dc:creator>
         
         
         
@@ -60,12 +60,12 @@
         <title>纸屑</title>
         <link>https://izayoi.cn/categories/%E7%BA%B8%E5%B1%91/</link>
         <pubDate>Fri, 05 Feb 2021 11:52:18 +0800</pubDate>
-        <author>izayoint0x80@foxmail.com (IZAY01)</author>
+        <author>dev2ero@foxmail.com (Dev Zero)</author>
         
         <guid>https://izayoi.cn/categories/%E7%BA%B8%E5%B1%91/</guid>
         <description></description>
         
-        <dc:creator>IZAY01</dc:creator>
+        <dc:creator>Dev Zero</dc:creator>
         
         
         

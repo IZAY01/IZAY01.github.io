@@ -6,13 +6,13 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>IZAYOI on IZAY01</title>
+    <title>IZAYOI on Dev Zero</title>
     <link>https://izayoi.cn/showcase/personal/</link>
-    <description>Recent content in IZAYOI on IZAY01</description>
+    <description>Recent content in IZAYOI on Dev Zero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>izayoint0x80@foxmail.com (IZAY01)</managingEditor>
-    <webMaster>izayoint0x80@foxmail.com (IZAY01)</webMaster>
+    <managingEditor>dev2ero@foxmail.com (Dev Zero)</managingEditor>
+    <webMaster>dev2ero@foxmail.com (Dev Zero)</webMaster>
     <copyright>©2021, All Rights Abandoned</copyright>
     <lastBuildDate>Sun, 19 Jan 2020 21:04:11 +0900</lastBuildDate>
     
@@ -24,12 +24,12 @@
         <title>IZAYOI</title>
         <link>https://izayoi.cn/showcase/personal/izayoi/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
-        <author>izayoint0x80@foxmail.com (IZAY01)</author>
+        <author>dev2ero@foxmail.com (Dev Zero)</author>
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
         <guid>https://izayoi.cn/showcase/personal/izayoi/</guid>
         <description></description>
         
-        <dc:creator>IZAY01</dc:creator>
+        <dc:creator>Dev Zero</dc:creator>
         
         
         
@@ -42,12 +42,12 @@
         <title>GitHub</title>
         <link>https://izayoi.cn/showcase/personal/github/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
-        <author>izayoint0x80@foxmail.com (IZAY01)</author>
+        <author>dev2ero@foxmail.com (Dev Zero)</author>
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
         <guid>https://izayoi.cn/showcase/personal/github/</guid>
         <description></description>
         
-        <dc:creator>IZAY01</dc:creator>
+        <dc:creator>Dev Zero</dc:creator>
         
         
         
@@ -60,12 +60,12 @@
         <title>GitBook</title>
         <link>https://izayoi.cn/showcase/personal/gitbook/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
-        <author>izayoint0x80@foxmail.com (IZAY01)</author>
+        <author>dev2ero@foxmail.com (Dev Zero)</author>
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
         <guid>https://izayoi.cn/showcase/personal/gitbook/</guid>
         <description></description>
         
-        <dc:creator>IZAY01</dc:creator>
+        <dc:creator>Dev Zero</dc:creator>
         
         
         
@@ -78,12 +78,12 @@
         <title>GitBook Editor</title>
         <link>https://izayoi.cn/showcase/personal/gitbook-edit/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
-        <author>izayoint0x80@foxmail.com (IZAY01)</author>
+        <author>dev2ero@foxmail.com (Dev Zero)</author>
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
         <guid>https://izayoi.cn/showcase/personal/gitbook-edit/</guid>
         <description></description>
         
-        <dc:creator>IZAY01</dc:creator>
+        <dc:creator>Dev Zero</dc:creator>
         
         
         
