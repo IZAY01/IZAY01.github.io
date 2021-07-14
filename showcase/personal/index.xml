@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>IZAYOI on Dev Zero</title>
+    <title>Dev Zero</title>
     <link>https://izayoi.cn/showcase/personal/</link>
-    <description>Recent content in IZAYOI on Dev Zero</description>
+    <description>Recent content on Dev Zero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>dev2ero@foxmail.com (Dev Zero)</managingEditor>
@@ -21,7 +21,7 @@
 
       
       <item>
-        <title>IZAYOI</title>
+        <title>Dev Zero</title>
         <link>https://izayoi.cn/showcase/personal/izayoi/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         <author>dev2ero@foxmail.com (Dev Zero)</author>
